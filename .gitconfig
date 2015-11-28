@@ -15,8 +15,8 @@
 	# Pull in remote changes for the current repository and all its submodules
 	p = !"git pull; git submodule foreach git pull origin master"
 
-	# Clone a repository including all submodules
-	c = clone --recursive
+	# Commit with a message
+	c = commit -m
 
 	# Commit all changes
 	ca = !git add -A && git commit -av
@@ -71,6 +71,9 @@
 			git commit --amend -m \"$(git log -1 --pretty=%B)\n\nCloses #$1.\"; \
 		fi \
 	}; f"
+
+	# Add
+	a = add
 
 [apply]
 
