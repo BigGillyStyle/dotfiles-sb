@@ -54,6 +54,10 @@ brew install sfnt2woff
 brew install sfnt2woff-zopfli
 brew install woff2
 
+# ANDY: prereqs for CTF
+brew install Caskroom/cask/java
+brew install Caskroom/cask/xquartz
+
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
 brew install bfg
