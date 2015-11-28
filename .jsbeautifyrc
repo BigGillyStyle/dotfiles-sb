@@ -1,0 +1,18 @@
+{
+  "js": {
+    "brace_style": "end-expand",
+    "break_chained_methods": true,
+    "end_with_comma": true,
+    "indent_char": " ",
+    "indent_handlebars": true,
+    "indent_level": 0,
+    "indent_size": 2,
+    "indent_with_tabs": false,
+    "jslint_happy": false,
+    "max_preserve_newlines": 2,
+    "other": " ",
+    "preserve_newlines": true,
+    "space_after_anon_function": false,
+    "space_in_paren": false
+  }
+}

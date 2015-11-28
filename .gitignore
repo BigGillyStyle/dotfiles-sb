@@ -12,3 +12,35 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+# Compiled source #
+###################
+*.class
+
+# Logs #
+########
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+
+# IDE support files #
+#####################
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+/.idea
+/.tags*
+
+# Grails "temporary" build files #
+##################################
+/target
