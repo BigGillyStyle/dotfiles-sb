@@ -57,6 +57,7 @@ brew install woff2
 # ANDY: prereqs for CTF
 brew install Caskroom/cask/java
 brew install Caskroom/cask/xquartz
+brew install homebrew/x11/xpdf
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
