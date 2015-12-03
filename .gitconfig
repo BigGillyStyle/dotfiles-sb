@@ -90,6 +90,9 @@
 	# Fetch
 	f = fetch
 
+  # Merge
+	m = merge
+
 	# Push to origin/master
 	pom = push origin master
 
