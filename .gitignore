@@ -41,6 +41,4 @@ Thumbs.db
 /.idea
 /.tags*
 
-# Grails "temporary" build files #
-##################################
-/target
+.rbenv-gemsets
