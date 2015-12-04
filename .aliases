@@ -149,4 +149,5 @@ alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resource
 alias reload="exec $SHELL -l"
 
 # ANDY
+alias psx="ps aux | grep $1"
 alias clearlogs="rm -rf log/*"
