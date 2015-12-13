@@ -42,3 +42,4 @@ Thumbs.db
 /.tags*
 
 .rbenv-gemsets
+.gems
