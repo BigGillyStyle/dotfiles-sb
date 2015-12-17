@@ -82,7 +82,7 @@
   # ANDY
 
 	# Add
-	a = add .
+	a = add -A
 
 	# Commit with a message
 	c = commit -m
@@ -95,6 +95,13 @@
 
 	# Push to origin/master
 	pom = push origin master
+
+	# Checkout
+	co = checkout
+
+	# Branch
+	b = branch
+	ba = branch --all
 
 [apply]
 
