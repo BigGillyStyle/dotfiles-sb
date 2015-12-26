@@ -151,3 +151,4 @@ alias reload="exec $SHELL -l"
 # ANDY
 alias psx="ps aux | grep $1"
 alias clearlogs="rm -rf log/*"
+alias be="bundle exec"
