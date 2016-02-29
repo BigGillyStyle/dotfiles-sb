@@ -92,6 +92,7 @@
 
   # Merge
 	m = merge
+	mom = merge origin master
 
 	# Push to origin/master
 	pom = push origin master
@@ -102,6 +103,9 @@
 	# Branch
 	b = branch
 	ba = branch --all
+
+	# remote
+	rpo = remote prune origin
 
 [apply]
 
