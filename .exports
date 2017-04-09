@@ -31,3 +31,4 @@ export MANPAGER='less -X';
 
 # ANDY
 export RAILS_ENV=development
+export ANDROID_HOME=/usr/local/share/android-sdk
