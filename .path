@@ -1,1 +1,2 @@
 export PATH="$(brew --prefix coreutils)/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$PATH"
+export PATH="/Users/apickler/Library/Android/sdk/platform-tools":$PATH
