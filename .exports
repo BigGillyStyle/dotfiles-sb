@@ -35,4 +35,4 @@ export GPG_TTY=$(tty);
 
 # ANDY
 export RAILS_ENV=development
-export ANDROID_HOME=/usr/local/share/android-sdk
+export ANDROID_HOME=~/Library/Android/sdk
