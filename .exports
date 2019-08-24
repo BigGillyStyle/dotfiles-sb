@@ -34,5 +34,3 @@ export MANPAGER='less -X';
 export GPG_TTY=$(tty);
 
 # ANDY
-export RAILS_ENV=development
-export ANDROID_HOME=~/Library/Android/sdk
