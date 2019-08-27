@@ -152,4 +152,4 @@ alias psx="ps aux | grep $1"
 alias clearlogs="rm -rf log/*"
 alias ll='ls -alGFh'
 alias ls='ls -GFh'
-alias ..='cd ..'
+alias dc='docker-compose'
