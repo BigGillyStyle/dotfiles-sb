@@ -153,3 +153,4 @@ alias clearlogs="rm -rf log/*"
 alias ll='ls -alGFh'
 alias ls='ls -GFh'
 alias dc='docker-compose'
+alias vpn='~/vpn'
