@@ -217,5 +217,7 @@
 
 # ANDY
 [credential]
-
 	helper = osxkeychain
+
+[pull]
+	rebase = false
