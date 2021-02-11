@@ -39,7 +39,7 @@ fi
 
 # Enable tab completion for `g` by marking it as an alias for `git`
 if type _git &> /dev/null; then
-	complete -o default -o nospace -F _git g;
+	complete -o bashdefault -o default -o nospace -F _git g;
 fi;
 
 # Add tab completion for SSH hostnames based on ~/.ssh/config, ignoring wildcards
