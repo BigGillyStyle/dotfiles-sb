@@ -148,8 +148,6 @@ alias reload="exec ${SHELL} -l"
 alias path='echo -e ${PATH//:/\\n}'
 
 # ANDY
-alias psx="ps aux | grep $1"
-alias clearlogs="rm -rf log/*"
 alias ll='ls -alGFh'
 alias ls='ls -GFh'
 alias dc='docker-compose'
